@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">School Attendance App</string>
+    <string name="name_hint">Enter name</string>
+    <string name="email_hint">Enter email</string>
+    <string name="phone_hint">Enter phone number</string>
+    <string name="password_hint">Enter password</string>
+    <string name="reg_txt">Register</string>
+    <string name="login_txt">Login</string>
+</resources>
